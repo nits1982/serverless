@@ -32,6 +32,6 @@
     "dayjs": "^1.8.26",
     "graphql": "^15.0.0",
     "graphql-iso-date": "^3.6.1",
-    "mongoose": "^5.9.11"
+    "mongoose": "^5.13.15"
   }
 }
